@@ -6,7 +6,7 @@
 
 Name:           mingw32-libgpg-error
 Version:        1.6
-Release:        %mkrel 2
+Release:        %mkrel 3
 Summary:        MinGW Windows GnuPGP error library
 
 License:        LGPLv2+
