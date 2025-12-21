@@ -18,6 +18,7 @@ Source2:        wk@g10code.com
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:      noarch
 
+BuildRequires:	make
 BuildRequires:  mingw32-filesystem >= 27
 BuildRequires:  mingw32-gcc
 BuildRequires:  mingw32-binutils
